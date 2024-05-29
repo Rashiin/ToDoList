@@ -1,0 +1,493 @@
+{
+    "boards": [
+      {
+        "name": "Rashin project",
+        "backgroundImage": "colton-duke-UExx0KnnkjY-unsplash.jpg",
+        "isActive" : true,
+        "columns": [
+          {
+            "name": "Todo",
+            "tasks": [
+              {
+                "title": "go to class",
+                "description": "",
+                "status": "Todo",
+                "subtasks": [
+                  {
+                    "title": "Sign up page",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Sign in page",
+                    "isCompleted": false
+                  },
+                  {
+                    "title": "Welcome page",
+                    "isCompleted": false
+                  }
+                ]
+              },
+              {
+                "title": "Build UI for intern work",
+                "description": "",
+                "status": "Todo",
+                "subtasks": [
+                  {
+                    "title": "Search page",
+                    "isCompleted": false
+                  }
+                ]
+              },
+              {
+                "title": "Build settings UI",
+                "description": "",
+                "status": "Todo",
+                "subtasks": [
+                  {
+                    "title": "Account page",
+                    "isCompleted": false
+                  },
+                  {
+                    "title": "Billing page",
+                    "isCompleted": false
+                  }
+                ]
+              },
+              {
+                "title": "go to university",
+                "description": "network exam !!!",
+                "status": "Todo",
+                "subtasks": [
+                  {
+                    "title": "Internal testing",
+                    "isCompleted": false
+                  },
+                  {
+                    "title": "External testing",
+                    "isCompleted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Doing",
+            "tasks": [
+              {
+                "title": "Design Lego site",
+                "description": "",
+                "status": "Doing",
+                "subtasks": [
+                  {
+                    "title": "Settings - Account page",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Settings - Billing page",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Search page",
+                    "isCompleted": false
+                  }
+                ]
+              },
+           
+              {
+                "title": "Design my powerpoint",
+                "description": "",
+                "status": "Doing",
+                "subtasks": [
+                  {
+                    "title": "Sign up page",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Sign in page",
+                    "isCompleted": false
+                  },
+                  {
+                    "title": "Welcome page",
+                    "isCompleted": false
+                  }
+                ]
+              },
+          
+              {
+                "title": "mft class ",
+                "description": "",
+                "status": "Doing",
+                "subtasks": [
+                  {
+                    "title": "Define user model",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Add auth endpoints",
+                    "isCompleted": false
+                  }
+                ]
+              },
+              {
+                "title": "Research for DallE2",
+                "description": "We know what we're planning to build for version one. ",
+                "status": "Doing",
+                "subtasks": [
+                  {
+                    "title": "Research competitor pricing and business models",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Outline a business model that works for our solution",
+                    "isCompleted": false
+                  },
+                  {
+                    "title": "Talk to potential customers about our proposed solution and ask for fair price expectancy",
+                    "isCompleted": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Done",
+            "tasks": [
+              {
+                "title": "AI Article",
+                "description": "Ensure the layout continues to make sense and we have strong buy-in from potential users.",
+                "status": "Done",
+                "subtasks": [
+                  {
+                    "title": "Complete 5 wireframe prototype tests",
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "title": "painting",
+                "description": "Create a greyscale clickable wireframe prototype to test our asssumptions so far.",
+                "status": "Done",
+                "subtasks": [
+                  {
+                    "title": "Create clickable wireframe prototype in Balsamiq",
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "title": "Review my English book",
+                "description": "Keep iterating through the subtasks until we're clear on the core concepts for the app.",
+                "status": "Done",
+                "subtasks": [
+                  {
+                    "title": "Meet to review notes from previous tests and plan changes",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Make changes to paper prototypes",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Conduct 5 usability tests",
+                    "isCompleted": true
+                  }
+                ]
+              },
+           
+              {
+                "title": "Market discovery",
+                "description": "We need to define and refine our core product. Interviews will help us learn common pain points and help us define the strongest MVP.",
+                "status": "Done",
+                "subtasks": [
+                  {
+                    "title": "Interview 10 prospective customers",
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "title": "shopping",
+                "description": "",
+                "status": "Done",
+                "subtasks": [
+                  {
+                    "title": "Find direct and indirect competitors",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "SWOT analysis for each competitor",
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "title": "Research for Iot",
+                "description": "We need to get a solid overview of the market to ensure we have up-to-date estimates of market size and demand.",
+                "status": "Done",
+                "subtasks": [
+                  {
+                    "title": "Write up research analysis",
+                    "isCompleted": true
+                  },
+                  {
+                    "title": "Calculate TAM",
+                    "isCompleted": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "AI Roadmap",
+        "isActive": false,
+        "backgroundImage": "306991.jpg",
+        "columns": [
+            {
+                "name": "Todo",
+                "tasks": [
+                    {
+                        "title": "Plan for travel",
+                        "description": "",
+                        "status": "Todo",
+                        "subtasks": [
+                            {
+                                "title": "Find hunter",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Gather assets",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Draft product page",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Notify customers",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Notify network",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Launch!",
+                                "isCompleted": false
+                            }
+                        ]
+                    },
+                    {
+                        "title": "cooking",
+                        "description": "",
+                        "status": "Todo",
+                        "subtasks": [
+                            {
+                                "title": "Draft out HN post",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Get feedback and refine",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish post",
+                                "isCompleted": false
+                            }
+                        ]
+                    },
+                    {
+                        "title": "going to gym",
+                        "description": "",
+                        "status": "Doing",
+                        "subtasks": [
+                            {
+                                "title": "Write article",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish on LinkedIn",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish on Inndie Hackers",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish on Medium",
+                                "isCompleted": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Doing",
+                "tasks": [
+                    {
+                        "title": "Sign in class",
+                        "description": "",
+                        "status": "Done",
+                        "subtasks": [
+                            {
+                                "title": "Write article",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish on LinkedIn",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish on Inndie Hackers",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Publish on Medium",
+                                "isCompleted": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Review",
+                "tasks": [
+                    {
+                        "title": "Review AI algorithms",
+                        "description": "Check for any new advancements or improvements in AI algorithms.",
+                        "status": "Todo",
+                        "subtasks": [
+                            {
+                                "title": "Read research papers",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Experiment with new models",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Benchmark against existing solutions",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Document findings",
+                                "isCompleted": false
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Review AI Roadmap",
+                        "description": "Assess progress and adjust plans if necessary.",
+                        "status": "Doing",
+                        "subtasks": [
+                            {
+                                "title": "Analyze current milestones",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Consult with team members",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Identify areas for improvement",
+                                "isCompleted": false
+                            },
+                            {
+                                "title": "Update roadmap document",
+                                "isCompleted": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+    
+      
+,      
+{
+  "name": "Front-end",
+  "backgroundImage": "New-York-City,-new-york-c-1920x1080.jpg",
+  "isActive": false,
+  "columns": [
+    {
+      "name": "Now",
+      "tasks": [
+        {
+          "title": "update CSS styles",
+          "description": "Refactor CSS for better modularity",
+          "status": "in progress",
+          "subtasks": [
+            {
+              "title": "Refactor button styles",
+              "isCompleted": false
+            },
+            {
+              "title": "Optimize media queries",
+              "isCompleted": false
+            }
+          ]
+        },
+        {
+          "title": "Implement new feature",
+          "description": "Add support for dark mode",
+          "status": "pending",
+          "subtasks": [
+            {
+              "title": "Design dark mode UI",
+              "isCompleted": false
+            },
+            {
+              "title": "Implement dark mode functionality",
+              "isCompleted": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Next",
+      "tasks": [
+        {
+          "title": "Optimize page load speed",
+          "description": "Analyze and improve performance metrics",
+          "status": "pending",
+          "subtasks": [
+            {
+              "title": "Run performance audits",
+              "isCompleted": false
+            },
+            {
+              "title": "Optimize asset loading",
+              "isCompleted": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Later",
+      "tasks": [
+        {
+          "title": "Implement accessibility improvements",
+          "description": "Ensure compliance with WCAG standards",
+          "status": "pending",
+          "subtasks": [
+            {
+              "title": "Conduct accessibility audit",
+              "isCompleted": false
+            },
+            {
+              "title": "Address contrast issues",
+              "isCompleted": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+    ]
+  }
